@@ -1,0 +1,18 @@
+header{width: 100%; height: 200px; background-color: cyan;}
+footer{width: 100%; height: 200px; background-color: lightblue;}
+#cel1{background-color: #112233; color: #001122;}
+#cel2{background-color: #223344;}
+#cel3{background-color: #334455; color: #112233;}
+#cel4{background-color: #445566;}
+#cel5{background-color: #556677; color: #223344;}
+#cel6{background-color: #667788;}
+#cel7{background-color: #778899; color: #334455;}
+#cel8{background-color: #8899aa;}
+#cel9{background-color: #99aabb; color: #445566;}
+#cel10{background-color: #aabbcc;}
+#cel11{background-color: #bbccdd; color: #556677;}
+#cel12{background-color: #ccddee;}
+#cel13{background-color: #ddeeff; color: #667788;}
+#cel14{background-color: #eeff00;}
+#cel15{background-color: #ff0011; color: #778899;}
+#cel16{background-color: #001122;}
